@@ -12,3 +12,8 @@ This repository contains the code to run the experiment (plus some additional ex
         ◦ $ pip install -e saver_envs
     • Run the file “main.py” to train an agent
         ◦ $ python main.py
+
+## Guild AI
+
+This project supports run automation with Guild AI. Refer to
+`README_guild.md`(README_guild.md) for details.

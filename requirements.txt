@@ -1,1 +1,4 @@
+# guild: python>=3.5
+# guild: tensorflow-any
+
 gym
